@@ -53,13 +53,13 @@ This is a RESTful API built using Node.js, MongoDB, and Express. It provides aut
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/yourusername/authZ-authN.git
    cd your-repo-name
    npm install
 ```
 ```bash
    npm start
-   
+
 ```
 
 **Access the API: The API will be available at http://localhost:<PORT>.**
