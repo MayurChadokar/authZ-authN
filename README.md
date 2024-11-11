@@ -57,14 +57,13 @@ This is a RESTful API built using Node.js, MongoDB, and Express. It provides aut
    cd your-repo-name
    npm install
     ```
+2. **Start The Server**
 
-    
     ```bash
         npm start
-
     ```
 
-**Access the API: The API will be available at http://localhost:<PORT>.**
+**Access the API: The API will be available at http://localhost:4000**
 
 ## Usage
 1. Sign Up: Send a POST request to /signup with name, email, password, and optionally, role.
